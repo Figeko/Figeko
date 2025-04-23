@@ -6,7 +6,7 @@
 - Check my [Linktree](https://linktr.ee/figeko)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Figeko&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Figeko&theme=dark&hide_border=false&include_all_commits=true&count)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Figeko&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Figeko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
