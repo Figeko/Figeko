@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Figeko
 - 👀 I’m a Security Engineer
 - 🌱 My Certification are: eJPT, CCFA, AZ-900, CCA-V and Watchguard Network Essentials
-- Actually contribut to [eg0n project](https://github.com/b1th0rn/eg0n)
+- ⚒️ Actually contribut to [eg0n project](https://github.com/b1th0rn/eg0n)
 
-- Check my [Linktree](https://linktr.ee/figeko)
+- ➡️ Check my [Linktree](https://linktr.ee/figeko)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Figeko&theme=dark&hide_border=false&include_all_commits=true&count)<br/>
